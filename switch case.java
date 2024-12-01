@@ -8,15 +8,15 @@ class Main {
            case 28:
                System.out.println("small");
                break;
-      case 30:
+           case 30:
              System.out.println("Medium");
              break;
-      case 38:
+           case 38:
              System.out.println("Large");
-          break;
-          case 40:
-      System.out.println("Xlarge");
-      break;
+            break;
+           case 40:
+             System.out.println("Xlarge");
+            break;
       default:
       System.out.println("Invalid");
        }
